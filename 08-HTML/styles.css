@@ -1,0 +1,27 @@
+h1 {
+    color:blue ;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 500px;
+    width: 500px;
+    background: burlywood;
+    padding: 50px;
+    
+   
+    border-color: rgb(85, 49, 20);
+    border-style: dashed ;
+    border-width: 30px;
+   
+    
+}
+
+#spanId {
+    font-style: oblique;
+    font-size: 38px;
+    margin: 100px;
+}
